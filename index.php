@@ -6,10 +6,10 @@
 <link rel="stylesheet" href="./index.css">
 
 <main>
-  <h1><img src="test.svg" alt="COCOROBO SPEAK" width="100%"></h1>
-  <form name="js">
-    <input size="50" type="text" name="txtb" value="" width="100%">
-    <input type="button" value="send" onclick="tbox1()">
+  <h1><img src="./title.svg" alt="COCOROBO SPEAK" width="100%"></h1>
+  <form action="./post.php" method="post">
+    <input size="50" type="text" name="message" width="100%">
+    <input type="submit" value="send">
   </form>
 </main>
 
