@@ -3,7 +3,7 @@ html {
   width: 100%;
   height: 100%;
 
-  background-image: url(./DSC_0364.JPG);
+  background-image: url(./bg.jpg);
   background-size: cover;
   background-position: 50% 90%;
   background-repeat: no-repeat;
@@ -18,6 +18,10 @@ img {
 body {
   height: 50%;
   text-align: center;
+}
+
+input {
+  opacity: 0.5;
 }
 
 div#wrapper {
