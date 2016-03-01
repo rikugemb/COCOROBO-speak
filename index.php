@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <meta charset="UTF-8">
-<title>COCOROBO - Speak</title>
+<title>COCOROBO - SPEAK</title>
 
 <link rel="stylesheet" href="./index.css">
 
